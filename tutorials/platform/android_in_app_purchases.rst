@@ -20,6 +20,10 @@ Find the iap.gd script in
 
 Add it to the Autoload list and name it as IAP so that we can reference it anywhere in the game.
 
+Also, don't forget to set the BILLING permission for your Android export:
+https://godotengine.org/qa/32954/how-can-i-add-user-permission-when-i-export-android
+
+
 Getting the product details
 ---------------------------
 
